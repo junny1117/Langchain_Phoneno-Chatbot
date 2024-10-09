@@ -26,9 +26,9 @@ Selenium, Langchain, Streamlit을 활용한 전화번호 정보 제공 챗봇
    - `ChatOllama`를 이용해 검색된 문서의 내용을 바탕으로 자연어로 답변을 생성.
 
 ## 사용도구/기술
-**Selenium**: 웹 스크래핑에 사용
-**Streamlit**: 사용자 인터페이스를 위한 프레임워크
-**FAISS**: 유사도 검색 기능
-**ChatOllama**: 자연어 생성 모델
+- **Selenium**: 웹 스크래핑에 사용
+- **Streamlit**: 사용자 인터페이스를 위한 프레임워크
+- **FAISS**: 유사도 검색 기능
+- **ChatOllama**: 자연어 생성 모델
 
 ## 실행 결과 이미지
