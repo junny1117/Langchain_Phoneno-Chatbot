@@ -1,4 +1,4 @@
-# 환율 정보 제공 챗봇
+# 전화번호 정보 제공 챗봇
 Selenium, Langchain, Streamlit을 활용한 전화번호 정보 제공 챗봇
 
 ## 주요 기능
