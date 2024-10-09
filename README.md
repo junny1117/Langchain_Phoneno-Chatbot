@@ -10,7 +10,7 @@ Langchain, Selenium, Streamlit을 활용한 전화번호 정보 제공 챗봇
   - 현찰 살 때와 팔 때의 환율
   - 송금 보낼 때와 받을 때의 환율
 - FAISS를 이용한 문서 검색 기능으로 사용자 질문에 대한 답변 성능 향상
-- 언어 모델(ChatOllama)을 사용하여 자연어로 답변 제공
+- 언어 모델을 사용하여 자연어로 답변 제공
 
 ## 작동 과정
 
@@ -31,9 +31,10 @@ Langchain, Selenium, Streamlit을 활용한 전화번호 정보 제공 챗봇
    - `ChatOllama`를 이용해 검색된 문서의 내용을 바탕으로 자연어로 답변을 생성.
 
 ## 사용도구/기술
-- **Selenium**: 웹 크롤링에 사용
+- **Selenium**: 웹 크롤링
 - **Streamlit**: 사용자 인터페이스를 위한 프레임워크
 - **FAISS**: 유사도 검색 기능
-- **ChatOllama**: 자연어 생성 모델
+- **Langchain**: LLM 프레임워크
+- **ChatOllama**: 대화형 응답 생성
 
 ## 실행 결과 이미지
