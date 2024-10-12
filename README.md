@@ -1,6 +1,6 @@
-# Langchain_Phoneno-Chatbot
+# Ollama_Phoneno-Chatbot
 ## 개요
-Langchain, Selenium, Streamlit을 활용한 전화번호 정보 제공 챗봇
+Ollama, Selenium, Streamlit을 활용한 전화번호 정보 제공 챗봇
 
 ## 주요 기능
 
