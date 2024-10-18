@@ -15,7 +15,7 @@ Ollama, Selenium, Streamlit을 활용한 전화번호 정보 제공 챗봇
    - 예: 이 번호는 어디서 걸려온 번호니? 등의 질문
 
 2. **웹 크롤링**:
-   - `Selenium`을 사용하여 [더콜](https://www.thecall.co.kr)에서 해당 전화번호 관련 정보 크롤링
+   - `Selenium`을 사용하여 전화번호 정보 공유 사이트 [더콜](https://www.thecall.co.kr)에서 사용자가 입력한 전화번호 관련 정보 크롤링
 
 3. **문서 분할**:
    - 크롤링한 데이터를 문서 형식으로 변환하여 `RecursiveCharacterTextSplitter`를 사용해 효과적으로 검색할 수 있도록 분할
