@@ -1,4 +1,4 @@
-# Phoneno-Chatbot_Ollama_gemma2:9b
+# Phoneno-Chatbot_Ollama_gemma2-9b
 ## 개요
 Langchain, Ollama, Selenium, Streamlit을 활용한 전화번호 정보 제공 챗봇
 
