@@ -32,7 +32,7 @@ Langchain, Ollama, Selenium, Streamlit을 활용한 전화번호 정보 제공 �
 - **FAISS**: 유사도 검색 기능
 - **Langchain**: LLM 활용 애플리케이션 개발 프레임워크
 - **ChatOllama**: 언어모델 실행 도구
-- **gemma2:9b: 언어모델 
+- **gemma2:9b**: 언어모델 
 
 ## 실행 결과 이미지
 
