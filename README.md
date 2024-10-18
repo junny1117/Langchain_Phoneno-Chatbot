@@ -28,11 +28,13 @@ Langchain, Ollama, Streamlit을 활용한 전화번호 정보 제공 챗봇
 
 ## 사용도구/기술
 - **Selenium**: 웹 크롤링
-- **Streamlit**: 사용자 인터페이스를 위한 프레임워크
-- **FAISS**: 유사도 검색 기능
+- **Streamlit**: 사용자 인터페이스
+- **FAISS**: 문서 유사도 검색
 - **Langchain**: LLM 활용 애플리케이션 개발 프레임워크
 - **ChatOllama**: 언어모델 실행 도구
 - **gemma2:9b**: 언어모델 
 
 ## 실행 결과 이미지
+![스크린샷 2024-10-18 094658](https://github.com/user-attachments/assets/a42f07a7-6362-4b99-be35-c30ab2d4024a)
+![스크린샷 2024-10-18 095422](https://github.com/user-attachments/assets/d5e166f1-12a0-4ef3-a3ad-933535ca6675)
 
