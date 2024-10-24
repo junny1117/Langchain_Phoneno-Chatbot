@@ -30,7 +30,7 @@ def phoneno_info(phoneno):
     return app_data
 
 def main():
-    st.title("전화번호 정보 제공 챗봇")
+    st.title("전화번호 정보 챗봇")
     phoneno = st.text_input("전화번호를 입력하세요:(예: 01012345678)", "")
     query = st.text_input("궁금한 것을 입력하세요(예: 어디 번호)", "")
     
