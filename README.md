@@ -39,6 +39,6 @@ Langchain, Ollama, Streamlit을 활용한 전화번호 정보 제공 챗봇
 - **Windows**: 운영체제
 
 ## 실행 결과 이미지
-![스크린샷 2024-10-18 094658](https://github.com/user-attachments/assets/a42f07a7-6362-4b99-be35-c30ab2d4024a)
-![스크린샷 2024-10-18 095422](https://github.com/user-attachments/assets/d5e166f1-12a0-4ef3-a3ad-933535ca6675)
+![스크린샷 2024-10-24 173259](https://github.com/user-attachments/assets/c23f5d3c-38dd-4e0b-923e-863592c03e67)
+![스크린샷 2024-10-24 173349](https://github.com/user-attachments/assets/d753a5b4-9c1b-4786-afbb-8b35b958d70f)
 
