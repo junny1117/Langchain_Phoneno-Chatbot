@@ -31,9 +31,7 @@ Langchain, Ollama, Streamlit을 활용한 전화번호 정보 제공 챗봇
 - **Python**: 개발언어
 - **Selenium**: 웹 크롤링
 - **Streamlit**: 사용자 인터페이스
-- **FAISS**: 문서 유사도 검색
 - **Langchain**: LLM 활용 애플리케이션 개발 프레임워크
-- **ChatOllama**: 언어모델 실행 도구
 - **gemma2:9b**: 언어모델
 - **Visual Studio Code**: 코드 작성
 - **Windows**: 운영체제
